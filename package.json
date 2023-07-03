@@ -1,0 +1,26 @@
+{
+  "name": "threejs-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bksolki/threejs-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bksolki/threejs-practice/issues"
+  },
+  "homepage": "https://github.com/bksolki/threejs-practice#readme",
+  "dependencies": {
+    "three": "^0.154.0"
+  },
+  "devDependencies": {
+    "vite": "^4.3.9"
+  }
+}
